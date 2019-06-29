@@ -1,0 +1,9 @@
+diff a/public_html/templates/sarracenia_flava_cuprea_willisii.html b/public_html/templates/sarracenia_flava_cuprea_willisii.html	(rejected hunks)
+@@ -11,6 +11,7 @@
+  
+  </body>
+  <footer>
+++<<<<<<< HEAD:public_html/templates/sarracenia_flava_cuprea_willisii.html
+ +    <a href="american_pitcher_plants.html">Back</a>
+ +=======
+      <a href="../">Back</a>

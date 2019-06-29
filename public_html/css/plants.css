@@ -1,0 +1,27 @@
+body {
+    background-color: greenyellow;
+}
+
+h3 {
+    background-color: white;
+}
+
+a:link {
+    color: brown;
+}
+
+a:visited {
+    color: red;
+}
+
+#carnivorous {
+    background-color: mediumspringgreen;
+}
+
+#tropicals {
+    background-color: limegreen;
+}
+
+#cacti {
+    background-color: goldenrod;
+}
