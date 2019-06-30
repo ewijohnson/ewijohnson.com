@@ -1,0 +1,18 @@
+ul {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    list-style-type: none;
+}
+
+li {
+    display: inline;
+}
+
+li a {
+    color: greenyellow;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
